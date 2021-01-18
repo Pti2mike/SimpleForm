@@ -1,3 +1,7 @@
+# Todos
+
+Put eye and eye-slash in password & passwordCheck input cells -> (CSS to be checked - posistion relative and Z-index)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
